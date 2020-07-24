@@ -30,6 +30,8 @@ public class Main {
 		
 		System.out.printf("%.3f%n", price3);
 		
+		System.out.println("teste git");
+		
 	}
 
 }
